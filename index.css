@@ -2,10 +2,18 @@ h1 {
 
 	color: #ff0000;
 
+	font-size: 40px;
+
+	font-family: Serif;
+
 }
 
 p {
 
 	color: #0000ff;
-	
+
+	font-size: 20px;
+
+	font-family: Serif;
+
 }
