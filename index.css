@@ -11,6 +11,7 @@
 
 	color: #f0fff0;
 	float: left;
+	font-size: 36px;
 	font-family: Serif;
 	padding: 20px 40px;
 
@@ -21,6 +22,7 @@
 	list-style: none;
 	color: #f0fff0;
 	float: left;
+	font-size: 20px;
 	font-family: Serif;
 	padding: 33px 20px;
 
@@ -60,7 +62,9 @@ p {
 
 	color: #f0fff0;
 	float: left;
+	font-size: 32px;
 	font-family: Serif;
+	padding: 40px;
 
 }
 
@@ -69,6 +73,8 @@ p {
 	color: #f0fff0;
 	list-style: none;
 	float: right;
+	font-size: 20px;
 	font-family: Serif;
+	padding: 40px;
 
 }
