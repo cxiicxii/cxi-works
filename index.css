@@ -11,6 +11,7 @@
 
 	color: #f0fff0;
 	float: left;
+	font-family: Serif;
 	padding: 20px 40px;
 
 }
@@ -20,6 +21,7 @@
 	list-style: none;
 	color: #f0fff0;
 	float: left;
+	font-family: Serif;
 	padding: 33px 20px;
 
 }
@@ -47,15 +49,24 @@ p {
 
 }
 
-.footer-list li {
-
-	list-style: none;
-
-}
-
 .footer {
 
 	background-color: #2f4f4f;
 	height: 270px;
+
+}
+
+.footer-logo {
+
+	float: left;
+	font-family: Serif;
+
+}
+
+.footer-list li {
+
+	list-style: none;
+	float: right;
+	font-family: Serif;
 
 }
