@@ -45,7 +45,7 @@ h1 {
 
 span {
 
-	color: #f0fff0;
+	color: #008080;
 	font-size: 40px;
 	font-family: Serif;
 
@@ -56,6 +56,22 @@ p {
 	color: #2f4f4f;
 	font-size: 20px;
 	font-family: Serif;
+
+}
+
+.section-title {
+
+	height: 500px;
+	color: #2f4f4f;
+	font-size: 24px;
+	font-family: Serif;
+	border-bottom: 2px solid #2f4f4f;
+
+}
+
+.contents-item {
+
+	float: left;
 
 }
 
