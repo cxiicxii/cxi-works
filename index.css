@@ -30,7 +30,7 @@
 
 .main {
 
-	background-color: #f5fffa;
+	background-color: #f0fff0;
 	padding: 100px 80px;
 
 }
@@ -89,6 +89,7 @@ p {
 	float: left;
 	height: 100px;
 	width: 100px;
+	text-align: center;
 
 }
 
