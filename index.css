@@ -62,7 +62,7 @@ p {
 .contents {
 
 	height: 500px;
-	
+
 }
 
 .section-title {
@@ -71,6 +71,16 @@ p {
 	font-size: 24px;
 	font-family: Serif;
 	border-bottom: 2px solid #2f4f4f;
+
+}
+
+.items {
+
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: space-around;
 
 }
 
